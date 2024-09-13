@@ -25,4 +25,7 @@ function mostrarPersonaje(personaje){
         </div>`
 }
 
+var container = document.getElementById("container")
+container.innerHTML = "<h1>Esto es un ejem</1>"
+
 
